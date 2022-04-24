@@ -1,1 +1,1 @@
-Pagina Web de laboratorio
+Aplicación Web de laboratorio
